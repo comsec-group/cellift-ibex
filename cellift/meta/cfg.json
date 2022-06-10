@@ -1,0 +1,8 @@
+{
+    "bootrom_elf": "",
+    "lead_cycles": 0,
+    "toplevel": "ibex_tiny_soc",
+    "trace_top": "ibex_tiny_soc.i_cellift_rv_core_ibex_mem_top",
+    "verilatorprefix": "ibex",
+    "memorywordsize": 32
+}
